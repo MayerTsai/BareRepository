@@ -1,1 +1,2 @@
 # BareRepository
+# revised in Mac
